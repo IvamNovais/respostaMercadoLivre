@@ -1,0 +1,13 @@
+/home/ivam/Downloads/resposta/src/main/java/com/resposta/resposta/RespostaApplication.java
+/home/ivam/Downloads/resposta/src/main/java/com/resposta/resposta/config/AppConfig.java
+/home/ivam/Downloads/resposta/src/main/java/com/resposta/resposta/config/WebConfig.java
+/home/ivam/Downloads/resposta/src/main/java/com/resposta/resposta/controller/MercadoLivreController.java
+/home/ivam/Downloads/resposta/src/main/java/com/resposta/resposta/dto/FaturamentoDTO.java
+/home/ivam/Downloads/resposta/src/main/java/com/resposta/resposta/model/Answer.java
+/home/ivam/Downloads/resposta/src/main/java/com/resposta/resposta/model/From.java
+/home/ivam/Downloads/resposta/src/main/java/com/resposta/resposta/model/PerguntasResponse.java
+/home/ivam/Downloads/resposta/src/main/java/com/resposta/resposta/model/Produto.java
+/home/ivam/Downloads/resposta/src/main/java/com/resposta/resposta/model/Question.java
+/home/ivam/Downloads/resposta/src/main/java/com/resposta/resposta/model/Relatorio.java
+/home/ivam/Downloads/resposta/src/main/java/com/resposta/resposta/model/VisitData.java
+/home/ivam/Downloads/resposta/src/main/java/com/resposta/resposta/service/MercadoLivreService.java

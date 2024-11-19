@@ -5,7 +5,7 @@ spring:
   application:
     name: resposta
 front:
-  url: https://f96b-187-108-125-117.ngrok-free.app
+  url: https://mlr-ashen.vercel.app/
 mercadoLivre:
   clientId: ${CLIENT_ID:351292420134820}
   clientSecret: ${CLIENT_SECRET:PvXCcsuDqPylD3WRr5wTxxTrrRXmJWmE}

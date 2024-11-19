@@ -1,5 +1,5 @@
 # Imagem base com Java JDK 21
-FROM eclipse-temurin:21-jdk-slim
+FROM openjdk:21-jdk-slim
 
 # Diretório de trabalho dentro do contêiner
 WORKDIR /app

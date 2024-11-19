@@ -17,4 +17,4 @@ RUN ./mvnw clean install
 EXPOSE 9000
 
 # Comando para rodar a aplicação
-CMD ["java", "-jar", "target/seu-projeto-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "target/resposta-0.0.1-SNAPSHOT.jar"]
